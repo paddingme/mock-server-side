@@ -1,0 +1,25 @@
+{
+  "catalogs": [
+    "http://127.0.0.1:3000/images/catalog.jpg",
+    "http://127.0.0.1:3000/images/catalog2.jpg",
+    "http://127.0.0.1:3000/images/book1.jpg"
+  ],
+  "bookmarks": [
+    {
+      "pdfIndex": 1,
+      "time": "2015-07-22 14:15"
+    },
+    {
+      "pdfIndex": 3,
+      "time": "2015-07-22 14:15"
+    },
+    {
+      "pdfIndex": 6,
+      "time": "2015-22-22 14:15"
+    },
+    {
+      "pdfIndex": 7,
+      "time": "2015-22-22 14:15"
+    }
+  ]
+}

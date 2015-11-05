@@ -1,0 +1,18 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huhb",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express-jwt": "^3.1.0",
+    "json-server": "^0.8.2",
+    "jsonwebtoken": "^5.4.1",
+    "redis": "^2.2.5"
+  }
+}
