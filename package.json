@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express-jwt": "^3.1.0",
+    "gulp": "^3.9.0",
+    "gulp-api-doc": "^1.0.1",
     "json-server": "^0.8.2",
     "jsonwebtoken": "^5.4.1",
     "redis": "^2.2.5"
